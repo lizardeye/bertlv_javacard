@@ -5,7 +5,6 @@
 *.log
 
 # Package Files #
-*.jar
 *.war
 *.ear
 *.zip
@@ -17,7 +16,6 @@
 *.iml
 *.iws
 /target/
-/src/main/java/services/
 /.settings/
 /*.classpath
 /*.project
